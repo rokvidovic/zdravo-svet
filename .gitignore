@@ -15,6 +15,9 @@
 *.pyc
 *.snm
 *.synctex.gz
+*.idx
+*.ilg
+*.ind
 
 # MacOS
 __MACOSX
