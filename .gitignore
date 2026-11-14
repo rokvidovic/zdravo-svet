@@ -13,6 +13,7 @@
 *.out
 *.pdf 
 !slika.pdf
+!PerrinPlot2.pdf
 *.pyc
 *.snm
 *.synctex.gz
